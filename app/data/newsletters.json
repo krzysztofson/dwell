@@ -1,0 +1,71 @@
+[
+  {
+    "id": "news-001",
+    "title": "Najlepsze oferty tygodnia #13",
+    "subject": "Najlepsze lokale usługowe tygodnia",
+    "status": "sent",
+    "sentAt": "2025-01-20",
+    "locationIds": ["loc-001", "loc-002", "loc-004", "loc-006"],
+    "stats": {
+      "sent": 1250,
+      "opens": 525,
+      "clicks": 156,
+      "openRate": 42,
+      "clickRate": 12.5
+    }
+  },
+  {
+    "id": "news-002",
+    "title": "Premium: Puławska 15",
+    "subject": "Wyjątkowy lokal w centrum Mokotowa",
+    "status": "sent",
+    "sentAt": "2025-01-18",
+    "locationIds": ["loc-001"],
+    "stats": {
+      "sent": 450,
+      "opens": 230,
+      "clicks": 89,
+      "openRate": 51,
+      "clickRate": 19.8
+    }
+  },
+  {
+    "id": "news-003",
+    "title": "Topowe lokalizacje w centrum",
+    "subject": "Śródmieście: Nowy Świat i Świętokrzyska",
+    "status": "sent",
+    "sentAt": "2025-01-15",
+    "locationIds": ["loc-011", "loc-016"],
+    "stats": {
+      "sent": 890,
+      "opens": 445,
+      "clicks": 178,
+      "openRate": 50,
+      "clickRate": 20.0
+    }
+  },
+  {
+    "id": "news-004",
+    "title": "Najlepsze oferty tygodnia #12",
+    "subject": "Przegląd najciekawszych lokali tygodnia",
+    "status": "sent",
+    "sentAt": "2025-01-13",
+    "locationIds": ["loc-008", "loc-009", "loc-012"],
+    "stats": {
+      "sent": 1180,
+      "opens": 472,
+      "clicks": 118,
+      "openRate": 40,
+      "clickRate": 10.0
+    }
+  },
+  {
+    "id": "news-005",
+    "title": "Nowy newsletter (draft)",
+    "subject": "",
+    "status": "draft",
+    "sentAt": null,
+    "locationIds": ["loc-004", "loc-008"],
+    "stats": null
+  }
+]

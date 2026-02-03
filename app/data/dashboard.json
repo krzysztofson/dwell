@@ -1,0 +1,39 @@
+{
+  "kpis": {
+    "totalLocations": 203,
+    "evaluatedCount": 158,
+    "evaluatedPercent": 78,
+    "avgScore": 6.4,
+    "topScoreCount": 23,
+    "newslettersSentThisMonth": 4
+  },
+  "alerts": [
+    {
+      "id": "alert-1",
+      "type": "warning",
+      "message": "12 nowych lokali bez oceny AI",
+      "action": "Oceń teraz",
+      "link": "/locations?status=new"
+    },
+    {
+      "id": "alert-2",
+      "type": "info",
+      "message": "3 lokale czekają na weryfikację Marcina",
+      "action": "Sprawdź",
+      "link": "/locations?status=evaluated"
+    },
+    {
+      "id": "alert-3",
+      "type": "success",
+      "message": "Newsletter gotowy do wysyłki (8 lokali)",
+      "action": "Wyślij",
+      "link": "/newsletter/create"
+    }
+  ],
+  "scoreHistory": [
+    { "week": "W1", "avgScore": 6.1, "count": 35 },
+    { "week": "W2", "avgScore": 6.3, "count": 42 },
+    { "week": "W3", "avgScore": 6.5, "count": 38 },
+    { "week": "W4", "avgScore": 6.4, "count": 43 }
+  ]
+}

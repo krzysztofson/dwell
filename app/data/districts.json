@@ -1,0 +1,12 @@
+[
+  { "id": "mokotow", "name": "Mokotów" },
+  { "id": "srodmiescie", "name": "Śródmieście" },
+  { "id": "ochota", "name": "Ochota" },
+  { "id": "wola", "name": "Wola" },
+  { "id": "praga-polnoc", "name": "Praga Północ" },
+  { "id": "praga-poludnie", "name": "Praga Południe" },
+  { "id": "zoliborz", "name": "Żoliborz" },
+  { "id": "bielany", "name": "Bielany" },
+  { "id": "ursynow", "name": "Ursynów" },
+  { "id": "wilanow", "name": "Wilanów" }
+]
